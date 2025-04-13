@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
-<h3 align="center">A Magic: the Gathering player by night, and game developer by day.</h3>
+<h3 align="center">A game developer by day and a Magic: the Gathering player by night.</h3>
 
 - 🔭 I’m currently working on [a pokemon TCG remake](https://github.com/lloncar15/NeoPokemonTCG_Unity) in Unity
   - This is just a passion project of mine that also doubles as an entry for my portfolio. I'm approaching this project as if I'm trying to make a project and push into production, but because of copyright issues, it's more just for exercise.
